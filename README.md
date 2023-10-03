@@ -13,5 +13,5 @@ SubTask 2: Create class myPostFixCal that implements IPostFixCal. Write method t
 
  For Nathanial - Completed
  
- SubTask 3: Create clas postFixCalTesting with only one method. Have this method check the correctness of PostFix
+ SubTask 3: Create class postFixCalTesting with only one method. Have this method check the correctness of PostFix
  calculator using 5 post fix strings
