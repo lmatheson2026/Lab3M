@@ -5,7 +5,7 @@ Dean Lucas Nathanial
 For Lucas - Completed
 SubTask 1: Creating class myStack that implements IStack, create all methods needed for the interface
 
-For Dean - 
+For Dean - semi completed: created interface needed, but did not push myPostFixCal method
 SubTask 2: Create class myPostFixCal that implements IPostFixCal. Write method that inputs a postFixString
  such as "12+3" and will return the final results
 
