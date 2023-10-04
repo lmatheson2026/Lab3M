@@ -6,7 +6,7 @@ For Lucas - Completed
 
 SubTask 1: Creating class myStack that implements IStack, create all methods needed for the interface
 
-For Dean - semi completed: created interface needed, but did not push myPostFixCal method. Perhaps a file failed to upload
+For Dean - completed
 
 SubTask 2: Create class myPostFixCal that implements IPostFixCal. Write method that inputs a postFixString
  such as "12+3" and will return the final results
